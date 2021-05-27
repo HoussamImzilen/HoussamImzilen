@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HoussamImzilen
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning Spring Boot
+- 🌱 i'm a fan of Java ecosystem
 
 
 <!---
