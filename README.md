@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HoussamImzilen
+- 👋 Hi, I’m Houssam Imzilen
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning Spring Boot
 - 🌱 i'm a fan of Java ecosystem
